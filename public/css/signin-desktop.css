@@ -1,0 +1,69 @@
+/*SIGN IN*/
+.loginBoxDsk{ width:100%; max-width: 576px; border: 1px solid #C4C4C4; box-sizing: border-box; border-radius: 6px; margin:0 auto 0 auto; }
+.loginBoxInnerDsk{ padding:12px 65px 18px 65px;}
+.loginBoxInnerDsk h2{font-weight: bold; font-family: 'libre_caslon_textbold'; font-size: 24px; line-height: 30px; text-align: center; color: #282C3F; margin-bottom:16px;}
+.loginBoxInnerDsk .loginSocialDsk a { overflow:hidden; position: relative; width: 202px;  margin-right:15px; height: 32px; line-height:32px; padding: 0 14px 0 0; display: inline-block;
+    -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; text-align: left;
+}
+.loginBoxInnerDsk .loginSocialDsk a.fbBgDsk{ background:#3D5B95;}
+.loginBoxInnerDsk .loginSocialDsk a.gglBgDsk{ background:#4588F0;}
+
+.loginBoxInnerDsk .loginSocialDsk a img { width: 24px; display: inline-block; position: absolute; top: 0; bottom: 0; margin: auto 0; padding:7px 0;}
+.loginBoxInnerDsk .loginSocialDsk img.facebookDsk{ background:#293F69; width:32px; height:32px;}
+.loginBoxInnerDsk .loginSocialDsk img.googleDsk{ margin: 3px 0 2px 3px; width: 26px; height: 26px; padding: 0;}
+.loginBoxInnerDsk .loginSocialDsk .btnTextDsk {  color:#fff; display: inline-block;  padding-left: 42px; line-height: 32px; text-transform:uppercase;}
+
+.ordivDsk{ position:relative; text-align:center; margin-top:23px;}
+.ordivDsk:before{ content:''; width:100%; height:1px; background:#e1e1e1; position: absolute; left: 0; top: 0; bottom: 0; margin: auto; z-index: -1;}
+.ordivDsk span{ background:#fff; padding:0 10px; display:inline-block;}
+
+.lgnBtnDsk{text-align: center;}
+.lgnBtnDsk .btn-outline-secondary {
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    color: #282C3F;
+    width: 312px;
+    height: 40px;
+    border: 1px solid #282C3F;
+    filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.12));
+    border-radius: 4px;
+}
+
+.lvotpDsk{ width:100%; max-width:415px; margin:0 auto;}
+.loginBoxInnerDsk label{padding-bottom: 3px;}
+.fgtpsdDsk{ float:right; font-size: 14px; font-family: 'source_sans_probold'; line-height: 18px; color: #0066B2;}
+.lgComnBtnDsk{ height:40px; background:#1F2230; border:0; max-width:312px; margin-left:auto; margin-right:auto;}
+.lgComnBtnDsk .btn-outline-secondary{font-size: 16px; line-height: 20px; text-align: center; letter-spacing: -0.3px; color: #282C3F;}
+
+.fmfdetailsDsk{}
+.fmfdetailsDsk h3{ font-family: 'source_sans_problack'; font-size: 20.5px; line-height: 25px; text-align: center; color: #282C3F; margin-bottom:18px;}
+.fmfdetailsDsk .form-group{ margin-bottom:8px;}
+
+.signBtnbxDsk{}
+.font-size-24{ font-size:24px!important;}
+.fontLibreBold{font-family: 'libre_caslon_textbold'!important;}
+.signBtnbxDsk a{font-size: 14px; line-height: 18px; text-align: center; color: #282C3F; margin-top:19px; margin-bottom:6px;}
+.fmfdetailsInnDsk label{ margin-left: 5px;}
+.fmfdetailsInnDsk .form-control{ -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;}
+
+.hidePassResetDsk{ position: absolute; top: 0; bottom: 0; margin-top: auto; margin-bottom: auto;}
+.rt-space-18{right:18px;}
+.rt-space-38{right:38px;}
+
+.rightCheckDsk{position: absolute; top: 0; bottom: 0; right:10px; margin-top: auto; margin-bottom: auto;}
+.rightCloseDsk{position: absolute; top: 0; bottom: 0; right:10px; margin-top: auto; margin-bottom: auto;}
+
+.loginWithDsk{ text-align:center; padding:0 0 26px 0; margin:0 26px;}
+.loginWithDsk a{border-bottom:0.5px solid #d9dade; font-size: 18px; line-height: 26px; text-align: center; letter-spacing: 0.05em; text-transform: uppercase; color: #282C3F; padding: 0 0; margin: 0 0; width: 50%;}
+.loginWithDsk a.active{ border-color:#282C3F;}
+
+.lgmrBoxDsk{ max-width:314px; margin:9px auto auto auto;}
+.timeCounterDsk{ font-size: 14.5px; font-weight: bold; font-family: 'source_sans_probold'; line-height: 18px; color: #0066B2;}
+.resendOtpDsk{font-size: 14.5px; font-family: 'source_sans_probold'; line-height: 18px; text-align: right; color: #676B7A;}
+
+.resetTextDsk{ padding:0; margin:0; text-align:center;}
+
+/*END SIGN IN*/
+

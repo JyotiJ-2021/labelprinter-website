@@ -1,0 +1,9 @@
+/*CMS STYLE*/
+.cmsInnDsk{}
+.cmsInnDsk h5{font-weight: bold; font-size: 14.5px; font-family: 'source_sans_probold'; line-height: 18px; text-align: justify; color: #282C3F; margin:0 0 6px 0;}
+.cmsInnDsk p{font-weight: normal; font-size: 14px; line-height: 18px; text-align: justify; color: #676B7A;}
+
+.cmlListDsk{ margin-top:12px; margin-left: 14px;}
+.cmlListDsk li{font-size: 14px; line-height: 18px; color: #282C3F; opacity: 0.7; border-bottom:0; padding:0 0 6px 0;}
+.cmlListDsk li:before{ content: '.'; font-size: 39px; position: absolute; color: #676b7a; left: -15px; top: -10px; width: 10px; height: 10px; display: block;}
+/*END CMS STYLE*/
