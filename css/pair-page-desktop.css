@@ -1,0 +1,33 @@
+/*PAIR PAGE*/
+.pairPageDsk{}
+
+.pairBoxDsk{ 
+width: 49%;
+padding: 1%;
+overflow: hidden;
+background: #fff;
+float: left;
+-webkit-box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 15%);
+-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.15);
+box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 15%);
+transition: width .5s ease;
+-moz-transition: width .5s ease;
+-webkit-transition: width .5s ease;
+position: relative;
+overflow: hidden;
+min-height: 406px;
+}
+.pairBoxInnerDsk{ padding:0 11px 0 11px;}
+.pairBoxDsk:nth-of-type(odd) { margin-right: 2%; margin-bottom: 25px;}
+.pairBoxDsk .catProdItem:first-child {
+    border-right: 1px solid #C4C4C4;
+    padding-left: 0;
+    padding-right: 2.5%;
+}
+.pairBoxDsk .catProdItem{width: 50%; padding-left: 2.5%; margin: 0; float: left;}
+
+/*END PAIR PAGE*/
+
+
+
+

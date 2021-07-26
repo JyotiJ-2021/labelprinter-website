@@ -1,0 +1,15 @@
+/*FAQ*/
+.faqCoverDsk{ max-width: 658px!important; width: 100%; max-width: 574px; margin-left:58px; border: 1px solid #E5E5E5; box-sizing: border-box; border-radius: 6px; border:0!important;}
+.faqCoverDsk .faqCoverInnDsk{}
+.faqCircleDsk{ padding: 19px 22px; border: 1px solid #E5E5E5;  -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;}
+.faqCircleDsk h1{font-weight: bold; font-size: 24px; font-family: 'libre_caslon_textbold'; line-height: 30px; color: #282C3F; margin:0; padding:0 0 0 0;}
+.faqCircleDsk hr{ margin-top:8px; margin-bottom:13px;}
+
+.faqCoverDsk .faqCoverInnctDsk{ border-bottom: 1px solid #E5E5E5;}
+.faqCoverDsk .faqCoverInnctDsk h4{ font-size: 14px; line-height: 18px; color: #282C3F; padding:5px 0; margin-bottom:10px; position:relative;}
+.faqCoverDsk .faqCoverInnctDsk h4 img{ position:absolute; right:0; top:0; bottom:0; margin-top:auto; margin-bottom:auto;}
+.faqCoverDsk .faqCoverInnctDsk p{ font-size: 14px; line-height: 18px; color: #676B7A;}
+
+
+
+/*END FAQ*/
